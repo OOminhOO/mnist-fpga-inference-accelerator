@@ -30,8 +30,8 @@ RTL 수준에서 설계하고, 소프트웨어 참조 모델과의 **정확한 �
 ---
 
 ## 2. System Architecture
+<img width="1053" height="503" alt="image" src="https://github.com/user-attachments/assets/974c72d1-601a-4020-b1bb-8d3297b632c0" />
 
-![System Architecture](./images/system_architecture.png)
 
 전체 시스템은 RTL 기준의 데이터 흐름에 맞춰 다음과 같이 구성되어 있습니다.
 
@@ -90,7 +90,7 @@ CNN Core 단독 검증에 그치지 않고,
 
 ### ✔ Bit-exact Verification
 
-![Bit-exact Verification](./images/bit_exact.png)
+![image.png](attachment:abda345a-ccc5-4bda-a96e-65018ad77552:image.png)
 
 - Python 정수 reference 모델과 RTL 시뮬레이션 결과 간  
   **100% bit-exact 일치 검증**
@@ -100,7 +100,7 @@ CNN Core 단독 검증에 그치지 않고,
 
 ### ✔ Performance Comparison
 
-![Performance Comparison](./images/performance.png)
+![image.png](attachment:622965a2-e905-4967-bb48-bb08765746cf:image.png)
 
 - ARM Cortex-A9 CPU 대비 FPGA 기반 CNN 추론 성능 비교
 - 낮은 전력 소모로 안정적인 추론 성능 확보
