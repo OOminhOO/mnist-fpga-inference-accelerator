@@ -4,8 +4,11 @@
 Notion 상세정리 링크  
 https://flashy-gopher-3c9.notion.site/2d752e88024880a48a2dd4b3bd12fbf4?v=2e052e88024880b295c7000cbebb5abf&source=copy_link
 
-최종발표 full_version  
+최종발표 10pages 
 https://drive.google.com/file/d/1fBy-vvCl_1QFjW2AxEF9NvWb8tMRffSt/view?usp=sharing  
+<br>  
+
+최종발표 full_version   
 https://drive.google.com/file/d/1pjBEg47TnHvpPdYen-JNLnrxzmVLRcXq/view?usp=sharing
 
 
