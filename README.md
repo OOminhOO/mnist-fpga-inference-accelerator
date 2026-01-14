@@ -5,8 +5,8 @@ Notion 상세정리 링크
 https://flashy-gopher-3c9.notion.site/2d752e88024880a48a2dd4b3bd12fbf4?v=2e052e88024880b295c7000cbebb5abf&source=copy_link
 
 최종발표 full_version  
-
-[링크수정_최종제출용_full version_CNN 추론 가속기 설계- 복사본.pdf](https://github.com/user-attachments/files/24612220/_._full.version_CNN.-.pdf)
+https://drive.google.com/file/d/1fBy-vvCl_1QFjW2AxEF9NvWb8tMRffSt/view?usp=sharing  
+https://drive.google.com/file/d/1pjBEg47TnHvpPdYen-JNLnrxzmVLRcXq/view?usp=sharing
 
 
 ## 📝 Project Overview
