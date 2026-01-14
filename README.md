@@ -1,6 +1,10 @@
 # mnist-fpga-inference-accelerator
 # FPGA Shift-only CNN Accelerator for MNIST
 
+Notion 상세정리 링크
+https://flashy-gopher-3c9.notion.site/2d752e88024880a48a2dd4b3bd12fbf4?v=2e052e88024880b295c7000cbebb5abf&source=copy_link
+
+
 ## 📝 Project Overview
 This project implements a lightweight CNN accelerator on Xilinx Zynq-7000 FPGA (Zybo Z7-20) for MNIST digit classification.
 Unlike traditional implementations, this design uses a **Shift-only Arithmetic** approach to minimize DSP usage and power consumption, achieving efficient hardware inference.
