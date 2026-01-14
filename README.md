@@ -123,7 +123,7 @@ CNN Core 단독 검증에 그치지 않고,
 
 ## 6. Repository Structure
 
-.
+.  
 ├── CNN_CORE_sources/ # CNN Core RTL 모듈 및 Core 단위 sim / xdc  
 ├── NPU_CAM_GRAY.srcs/ # 카메라 입력 포함 전체 시스템 RTL 및 sim / xdc  
 ├── cnn_python_final/ # 학습 모델, 가중치 생성, 정수 검증, Golden 데이터  
