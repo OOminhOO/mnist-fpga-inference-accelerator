@@ -1,7 +1,7 @@
 # mnist-fpga-inference-accelerator
 # FPGA Shift-only CNN Accelerator for MNIST
 
-Notion 상세정리 링크
+Notion 상세정리 링크  
 https://flashy-gopher-3c9.notion.site/2d752e88024880a48a2dd4b3bd12fbf4?v=2e052e88024880b295c7000cbebb5abf&source=copy_link
 
 
