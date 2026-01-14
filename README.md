@@ -90,7 +90,8 @@ CNN Core 단독 검증에 그치지 않고,
 
 ### ✔ Bit-exact Verification
 
-![image.png](attachment:abda345a-ccc5-4bda-a96e-65018ad77552:image.png)
+<img width="982" height="357" alt="image" src="https://github.com/user-attachments/assets/8261c92b-02f2-45fd-a29f-7585444abfa7" />
+
 
 - Python 정수 reference 모델과 RTL 시뮬레이션 결과 간  
   **100% bit-exact 일치 검증**
@@ -100,7 +101,8 @@ CNN Core 단독 검증에 그치지 않고,
 
 ### ✔ Performance Comparison
 
-![image.png](attachment:622965a2-e905-4967-bb48-bb08765746cf:image.png)
+<img width="880" height="298" alt="image" src="https://github.com/user-attachments/assets/163fd303-cb74-4db4-82f2-b12a3d8a1e2e" />
+
 
 - ARM Cortex-A9 CPU 대비 FPGA 기반 CNN 추론 성능 비교
 - 낮은 전력 소모로 안정적인 추론 성능 확보
